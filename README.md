@@ -7,4 +7,8 @@
 
 
 
-[ ![tw](ucr.png)](https://www.ucr.ac.cr/)
+
+
+# Universidad de Costa Rica
+
+[ ![ucr](ucr.png)](https://www.ucr.ac.cr/)
